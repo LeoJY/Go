@@ -1,0 +1,9 @@
+# Ignore Emacs Backup Files #
+#############################
+*~
+*#
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
